@@ -1,0 +1,16 @@
+.heading{
+    text-align: center;
+    color: #3498db;
+    font-size:40px;
+    background-color: black;
+    padding:20px;
+    border-radius: 20px;
+}
+div{
+    color: #3498db;
+    font-size:30px;
+    background-color: black;
+    padding:20px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}

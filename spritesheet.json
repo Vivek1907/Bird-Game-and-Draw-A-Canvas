@@ -1,0 +1,24 @@
+{"frames": [
+    {
+        "spritename": "yellowbird-downflap.png",
+        "x": 10,
+        "y": 10,
+        "height": 24,
+        "width": 34
+    },
+    {
+        "spritename": "yellowbird-midflap.png",
+        "x": 10,
+        "y": 54,
+        "height": 24,
+        "width": 34
+    },
+    {
+        "spritename": "yellowbird-upflap.png",
+        "x": 10,
+        "y": 98,
+        "height": 24,
+        "width": 34
+    }
+]
+}

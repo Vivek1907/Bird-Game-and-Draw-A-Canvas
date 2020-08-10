@@ -1,0 +1,57 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(./images/bg.png);
+}
+
+.property{
+  font-weight: bold;
+  color: #ffffff
+}
+
+.myDiv{
+  position: absolute;
+  top: 0%;
+  left: 40%;
+  color: #ffffff;
+}
+
+.publish{
+  position: absolute;
+  top: 10%;
+  left: 60%;
+}
+
+.publishb{
+  position: absolute;
+  top: 10%;
+  left: 65%;
+}
+
+.listing{
+  position: relative;
+  font-size: 30px;
+  font-weight: bold;
+  list-style-type: decimal;
+  font-family: verdana;
+  right: -100px;
+  color: #ffffff;
+  text-shadow: 4px 0 0 #000000;
+}
+
+.pencilPanel{
+  position: absolute;
+  top: 10%;
+  left: 75%;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.trans > * {
+  margin: 0px 20px;
+  color: #ffffff;
+  font-size: 20px;
+}
